@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>nfo</string>
+	</array>
+	<key>name</key>
+	<string>NFO</string>
+	<key>scopeName</key>
+	<string>text.nfo</string>
+	<key>uuid</key>
+	<string>1B3A5402-B277-11E2-8EB0-AA2A79957A3</string>
+</dict>
+</plist>
