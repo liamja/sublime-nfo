@@ -4,5 +4,7 @@
 	"draw_indent_guides": false,
 	"draw_centered": true,
 	"word_wrap": false,
-	"rulers": []
+	"rulers": [],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0
 }
