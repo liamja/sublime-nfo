@@ -1,10 +1,14 @@
 {
-	"default_encoding": "DOS (CP 437)",
-	"fallback_encoding": "DOS (CP 437)",
-	"draw_indent_guides": false,
-	"draw_centered": true,
-	"word_wrap": false,
-	"rulers": [],
-	"line_padding_bottom": 0,
-	"line_padding_top": 0
+    // Encoding
+    "default_encoding": "DOS (CP 437)",
+    "fallback_encoding": "DOS (CP 437)",
+
+    // Typography
+    "font_face": "Lucida Console",
+    "draw_centered": true,
+    "word_wrap": false,
+
+    // General editor look & feel
+    "draw_indent_guides": false,
+    "rulers": []
 }
