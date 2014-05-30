@@ -1,26 +1,17 @@
-NFO Support for Sublime Text
-============================
+NFO for Sublime Text
+====================
 
-Open NFO files with DOS encoding in Sublime Text.
+Open Scene NFO files with DOS 437 encoding automatically in Sublime Text, with sane defaults for optimal display.
 
-
-Windows
--------
-
-Copy `NFO` and `User` to:
-
-    %appdata%\Sublime Text 2\Packages
+Contributions welcome!
 
 
-OS X
-----
+Installation
+------------
 
-Copy `NFO` and `User` to:
+Search for the `NFO` package with Package Control, or install manually:
 
-    ~/Library/Application Support/Sublime Text 2/Packages
-
-
-Linux
------
-
-You're smart enough to figure it out yourself, neckbeard.
+* Download the files using the GitHub .zip download option
+* Unzip the files and rename the folder to Theme - Soda
+* Find your Packages directory using the menu item Preferences -> Browse Packages...
+* Copy the folder into your Sublime Text Packages directory
