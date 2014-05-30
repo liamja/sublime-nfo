@@ -12,6 +12,6 @@ Installation
 Search for the `NFO` package with Package Control, or install manually:
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to Theme - Soda
+* Unzip the files and rename the folder to NFO
 * Find your Packages directory using the menu item Preferences -> Browse Packages...
 * Copy the folder into your Sublime Text Packages directory
