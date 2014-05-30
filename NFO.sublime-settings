@@ -9,6 +9,7 @@
     "word_wrap": false,
 
     // General editor look & feel
+    "gutter": false,
     "draw_indent_guides": false,
     "rulers": []
 }
