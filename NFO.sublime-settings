@@ -5,6 +5,7 @@
 
     // Typography
     "font_face": "Lucida Console",
+    "font_options": ["gray_antialias"],
     "draw_centered": true,
     "word_wrap": false,
 
