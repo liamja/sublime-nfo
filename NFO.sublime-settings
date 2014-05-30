@@ -3,5 +3,6 @@
 	"fallback_encoding": "DOS (CP 437)",
 	"draw_indent_guides": false,
 	"draw_centered": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"rulers": []
 }
