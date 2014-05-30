@@ -2,5 +2,6 @@
 	"default_encoding": "DOS (CP 437)",
 	"fallback_encoding": "DOS (CP 437)",
 	"draw_indent_guides": false,
-	"draw_centered": true
+	"draw_centered": true,
+	"word_wrap": false
 }
