@@ -4,7 +4,7 @@
     "fallback_encoding": "DOS (CP 437)",
 
     // Typography
-    "font_face": "Lucida Console",
+    "font_face": "Courier New",
     "font_options": ["gray_antialias"],
     "draw_centered": true,
     "word_wrap": false,
